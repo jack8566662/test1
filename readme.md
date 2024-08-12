@@ -18,3 +18,5 @@ update for issue3
 update for rebase 1
 update for rebase 2
 update for rebase 3
+
+update for merge 1
